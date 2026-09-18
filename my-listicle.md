@@ -28,7 +28,7 @@ Finland is another place I would like to visit.
 
 I want to visit Switzerland because of its mountains and landscapes. 🏔️
 
-[Learn more about Switzerland](https://en.wikipedia.org/wiki/Switzerland_national_football_team)
+[Learn more about Switzerland](https://en.wikipedia.org/wiki/Switzerland)
 
 ## 5. Norway
 
